@@ -1,0 +1,15 @@
+table{
+    border: 1px solid black;
+}
+th,td,tr{
+    border: 1px solid black;
+}
+a{
+    display: block;
+    text-decoration: none;
+    color: orangered;
+}
+img{
+    width: 300px;
+    height: 400px;
+}
